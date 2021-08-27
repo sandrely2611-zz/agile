@@ -1,0 +1,11 @@
+Key Agile Concepts
+
+1. Acceptance Testing
+Es la descripción formal del comportamiento de un producto digital, generalmente expresado como ejemplos o escenario. 
+
+Generalmente tiene como resultado un resultado binario, aprobado o fallando.
+
+Ciertos equipos usan el Acceptance testing como la forma principal de especificación de funcionalidad, y la única forma formal de requerimientos de negocio. Otros equipos lo usan como complementos para documentación de especificaciones de casos de uso.
+
+Also Known As: "functional test", "acceptance test", "customer test". "story test" refiriendose a user stories es también usado.
+
